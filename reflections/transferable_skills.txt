@@ -1,0 +1,14 @@
+I'm a PHP developer (I'd say i'm very close to become mid-level developer). Because of that I know common stack of webtechnologies and maybe methodologies (but our company use them quite chaotic :<). I have about 9 months of experience with Symfony framework which is probably simmilar to Rails. Actually I first tried a little bit of Rails and then they told me to use Symfony in my company - the first thing I did notice that it's quite simmilar to Rails. I did few simple exercises in Rails and I think that Symfony is a lot harder to deal and learn. And PHP is like some fossil, you can probably dig a mammoth with it while you are looking for some answers.
+I'm also Computer Science student - it just helps to get to understand some topics easier. I don't really like my studies as I'm mostly learning mathematics there. There is almost none webdevelopment and if there is, it is outdated by at least 10 years. But still I got some soft skills and better understanding of programming theory (only a little though).
+
+I'll list some skills now:
+- PHP
+- Symfony framework
+- JS, jQuery, Ajax
+- HTML, Smarty, Twig
+- CSS, Less
+- a little bit of insight in other programming languages (C, C++, Java, Python)
+- a little bit knowledge about algorithms
+- a little bit knowledge about academic math :P
+
+This concludes my transferable skills I think.

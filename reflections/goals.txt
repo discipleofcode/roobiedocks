@@ -1,0 +1,6 @@
+- learn Ruby and RoR framework
+- prepare some portfolio
+- switch from PHP/Symfony to RoR
+- find a better job
+- learn how to code quickly (it's not enough just to do something, it needs to be done as quick as possible)
+- learn how to code with agile methodology

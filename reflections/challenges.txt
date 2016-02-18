@@ -1,0 +1,5 @@
+- I've tried to setup rails on Windows machine and it was awful. There was a lot of dependencies and after some time I'm just scared to update it or even use it. It would be probably better to use some virtual machine with Unix. Is there something you could recommend? I'll prolly use cloud9 services for now but it probably has some limitations.
+- There was a lot of hate about security and slowness of Ruby on Rails. Is it all good now?
+- Are there any limitations compared to other programming languages (used for webdevelopment) that are frustrating you?
+- As a PHP developer I would like to know if there are some common mistakes that PHP devlopers are making while programming in Ruby as newbies.
+- From what I heard RoR developers tends to use sublime, I really love PHPStorm IDE while programming and I know there is some IDE for Ruby, so why so many developers tends to use only texteditors?
